@@ -1,3 +1,3 @@
 # Exam
 
-train in bash -c "$(curl https://grademe.fr)"
+practice with 'bash -c "$(curl https://grademe.fr)"'
